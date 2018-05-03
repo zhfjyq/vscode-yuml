@@ -6,7 +6,7 @@ const stateDiagram = require('./state-diagram.js');
 const deploymentDiagram = require('./deployment-diagram.js');
 const packageDiagram = require('./package-diagram.js');
 const sequenceDiagram = require('./sequence-diagram.js');
-const Viz = require("./viz-lite.js");
+const Viz = require("./viz-lite.1.8.1.js");
 const vscode = require('vscode');
 require('./svg-utils.js')();
 
